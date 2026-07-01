@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0452/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 金剛童子持念經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T21/T21n1224.xml
+    old_id: T21n1224
+hash: sha256:37ede8e72094ec3c9afae98b7ee9ed9fe0d80f6fd38030e4d3b76c1b54a880da

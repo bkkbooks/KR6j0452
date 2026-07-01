@@ -1,0 +1,42 @@
+canonical_identifier: bkk:krp/KR6j0452/v1
+canonical_location: https://kanripo.org/bkk/KR6j0452/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 金剛童子持念經
+  identifiers:
+    alt_id:
+    - T21n1224
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T21/T21n1224.xml
+    old_id: T21n1224
+  edition:
+    short: bkk
+editions:
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0452_000.yaml, hash: 'sha256:37ede8e72094ec3c9afae98b7ee9ed9fe0d80f6fd38030e4d3b76c1b54a880da'}
+  - {seq: 1, filename: KR6j0452_001.yaml, hash: 'sha256:2c4d6dc1544617698cf317691b577cfdc1909d2b61e1f23663a30f542f777005'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6j0452_001.markers.yaml, hash: 'sha256:68823f5a3f8f66855c259158ccb0b20c667a76d7a2eb9ad8f52c041e63afb31f'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0452_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 3108
+  label: 金剛童子持念經
+  type: juan
+  level: 1
+hash: sha256:314b853caa22a2c7ab50c6d69f2a2e4dd83ec96edb329144f547b0bae40dfa4e
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
