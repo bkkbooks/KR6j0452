@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0452/v1
 canonical_location: https://kanripo.org/bkk/KR6j0452/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 金剛童子持念經
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0452_000.yaml, hash: 'sha256:37ede8e72094ec3c9afae98b7ee9ed9fe0d80f6fd38030e4d3b76c1b54a880da'}
-  - {seq: 1, filename: KR6j0452_001.yaml, hash: 'sha256:2de6d5f4b31a0b3187ab72b5d7074a8e2d5516158db1d1216d6038074496df6a'}
+  - {seq: 1, filename: KR6j0452_001.yaml, hash: 'sha256:b7f8aaaff5fe66af3c9a278464c608bd8369169c1bd19dc30e9087b00d2c4d04'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0452_000.markers.yaml, hash: 'sha256:d3e5b9ad82799b1d718d59dbd404c107e2a7e18aceddfb32214273feefbceb9b'}
-  - {seq: 1, role: markers, filename: assets/KR6j0452_001.markers.yaml, hash: 'sha256:17ebeafa2cdac1ca2ede9faef50a7d62e489684507983af17465292de405f9e9'}
+  - {seq: 1, role: markers, filename: assets/KR6j0452_001.markers.yaml, hash: 'sha256:5d796c5b989f8a7770614456d567d0a6b5b1c93305ccfa54bc935ba6d448e993'}
 table_of_contents:
 - ref:
     seq: 1
@@ -37,4 +37,7 @@ table_of_contents:
   label: 金剛童子持念經
   type: juan
   level: 1
-hash: sha256:f062fcd78a8838720ea25e9f1c01c6afdc0b5d70782bbcd8d98872b0a8d399b6
+hash: sha256:0ccb7105b943d74433fa6bd40c53be783aac07e6628625810ba6d2273d349f4e
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
